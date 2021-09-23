@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+
+.intro{
+  background-color: #23424A;
+  width: 100%;
+  height: 750px;
+  padding: 30px;
+  position: relative;
+  
+}
+
+.container{
+  padding: 0 4rem;
+  width: 49%;
+  max-width: 750px;
+  margin-top: 0;
+}
+
+.container-1{
+  color: white;
+  font-family: Roboto black;
+  
+  
+}
+
+
+.btn{
+    background-color: #38cfd9; 
+    border-radius: 30px;
+    color: #23424a;
+    padding: .9px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px; 
+    font-weight: bold;
+    font-family: Roboto bold;
+    max-width: 700px;
+  }
